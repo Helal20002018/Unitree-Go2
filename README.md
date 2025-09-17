@@ -4,7 +4,7 @@ Quadruped Robot – Reinforcement Learning & 3D Mapping
 This project was developed on the Unitree Go2 quadruped robot, focusing on reinforcement learning with NVIDIA Isaac Gym to enhance locomotion capabilities.
 I also integrated advanced mapping and navigation features using LiDAR and depth camera sensors to improve environmental awareness and path planning accuracy.
 
- My Contributions
+-- My Contributions
 
 Reinforcement Learning with Isaac Gym: Trained the quadruped to acquire new locomotion skills with smoother and faster execution.
 
@@ -16,7 +16,7 @@ Navigation Optimization: Tuned scripts and system parameters to improve mapping 
 
 Two-Leg Balance Control: Optimized stability algorithms to enable the robot to maintain balance on two legs under dynamic conditions.
 
- Tools & Technologies
+ -- Tools & Technologies
 
 Simulation & RL: NVIDIA Isaac Gym
 
