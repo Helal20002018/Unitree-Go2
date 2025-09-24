@@ -6,8 +6,9 @@ This project was developed on the Unitree Go2 quadruped robot, focusing on reinf
 I also integrated advanced mapping and navigation features using LiDAR and depth camera sensors to improve environmental awareness and path planning accuracy.
 
 
+![IMG_1474](https://github.com/user-attachments/assets/cad5018c-6ee3-4378-9bf4-f718f7c8cd3f)
 
-![IMG_1476](https://github.com/user-attachments/assets/3a24aef7-2b3e-40af-b2fd-27f47f6c264f)
+
 
 🔧 My Contributions
 
@@ -32,11 +33,12 @@ Hardware & Sensors: Unitree Go2, LiDAR, Depth Camera (RGB-D)
 Methods: Reinforcement Learning, SLAM, Navigation Optimization
 
 📸 Photo:
+![Uploading IMG_1480.JPG…]()
 
 
 
 
-![IMG_1474](https://github.com/user-attachments/assets/fcd2ca1f-f33b-4e5f-86a2-ecf012dc90a4)
+
 
 
 
